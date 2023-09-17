@@ -13,7 +13,8 @@ I'm Mathew, a data scientist with a passion for leveraging data to solve real-wo
 
 ## 💼 Projects
 
-To be uploaded soon...
+Please feel free to explore my most recent project below as well as my other projects on my page
+https://github.com/MathewOduwole/Detecting-Fraudulent-Job-Postings.git
 
 
 ## 📚 Education
